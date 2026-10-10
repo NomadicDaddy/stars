@@ -38,21 +38,21 @@ Total starred repositories: `303`
 
 ## Assembly
 
-  - [RibShark/OmniDrive](https://github.com/RibShark/OmniDrive) -  (⭐️1180) 
+  - [RibShark/OmniDrive](https://github.com/RibShark/OmniDrive) -  (⭐️1183) 
 
 **[⬆ back to top](#contents)**
 
 ## Astro
 
   - [mickasmt/astro-nomy](https://github.com/mickasmt/astro-nomy) - Differents pages and examples apps built with Astro v4.5, shadcn/ui & react js. Open Source. \[*MIT License*\] (⭐️504)
-  - [themesberg/flowbite-astro-admin-dashboard](https://github.com/themesberg/flowbite-astro-admin-dashboard) - Open-source admin dashboard template built with Astro, Flowbite, and Tailwind CSS \[*MIT License*\] (⭐️791)
+  - [themesberg/flowbite-astro-admin-dashboard](https://github.com/themesberg/flowbite-astro-admin-dashboard) - Open-source admin dashboard template built with Astro, Flowbite, and Tailwind CSS \[*MIT License*\] (⭐️790)
   - [themesberg/tailwind-astro-starter](https://github.com/themesberg/tailwind-astro-starter) - Free and open-source starter project to help you get started with Astro, Tailwind CSS and Flowbite \[*MIT License*\] (⭐️61) 
 
 **[⬆ back to top](#contents)**
 
 ## Batchfile
 
-  - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. \[*GNU GPLv3*\] (⭐️21785) 
+  - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. \[*GNU GPLv3*\] (⭐️21780) 
 
 **[⬆ back to top](#contents)**
 
@@ -65,7 +65,7 @@ Total starred repositories: `303`
   - [keirf/amiga-stuff](https://github.com/keirf/amiga-stuff) -  \[*The Unlicense*\] (⭐️314)
   - [keirf/flashfloppy](https://github.com/keirf/flashfloppy) - Floppy drive emulator for Gotek hardware (⭐️1619)
   - [RobSmithDev/DiskFlashback](https://github.com/RobSmithDev/DiskFlashback) - Windows package to mount disk images and real floppy drives for non standard windows file systems (⭐️80)
-  - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com \[*MIT License*\] (⭐️16205) 
+  - [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com \[*MIT License*\] (⭐️16208) 
 
 **[⬆ back to top](#contents)**
 
@@ -73,16 +73,16 @@ Total starred repositories: `303`
 
   - [adamdriscoll/pspolly](https://github.com/adamdriscoll/pspolly) - Retry, rate-limit, cache and circuit breaker cmdlets.  \[*MIT License*\] (⭐️72)
   - [Azure-Samples/smartbulkcopy](https://github.com/Azure-Samples/smartbulkcopy) - High-Speed Bulk Copy tool to move data from one Azure SQL / SQL Server database to another. Smartly uses logical or physical partitions to maximize speed. \[*MIT License*\] (⭐️64) *Archived!*
-  - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. \[*Apache License 2.0*\] (⭐️31748)
+  - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. \[*Apache License 2.0*\] (⭐️31790)
   - [ironmansoftware/terminal-gui-designer](https://github.com/ironmansoftware/terminal-gui-designer) - A terminal GUI designer for PowerShell. \[*MIT License*\] (⭐️203)
   - [johnkiddjr/PlexMatch-File-Generator](https://github.com/johnkiddjr/PlexMatch-File-Generator) - This application generates a .plexmatch file in the directory of all shows and movies added to your Plex Server. This is especially useful for migrating storage devices if you have some shows that needed a custom match. \[*MIT License*\] (⭐️81)
-  - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. \[*GNU GPLv3*\] (⭐️11823)
-  - [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager) - A mod manager for Baldur's Gate 3. This is the only official source! \[*MIT License*\] (⭐️1865)
+  - [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. \[*GNU GPLv3*\] (⭐️11826)
+  - [LaughingLeader/BG3ModManager](https://github.com/LaughingLeader/BG3ModManager) - A mod manager for Baldur's Gate 3. This is the only official source! \[*MIT License*\] (⭐️1870)
   - [MartinGC94/DisplayConfig](https://github.com/MartinGC94/DisplayConfig) - PowerShell module for configuring Windows display settings \[*MIT License*\] (⭐️197)
-  - [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw \[*MIT License*\] (⭐️2141)
-  - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications. \[*MIT License*\] (⭐️11655)
+  - [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) - Windows companion suite for OpenClaw \[*MIT License*\] (⭐️2143)
+  - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications. \[*MIT License*\] (⭐️11656)
   - [tui-cs/PSTui](https://github.com/tui-cs/PSTui) - Modules providing TUIs for PowerShell including Out-ConsoleGridView, and Show-ObjectTree \[*MIT License*\] (⭐️40)
-  - [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET \[*MIT License*\] (⭐️11257)
+  - [tui-cs/Terminal.Gui](https://github.com/tui-cs/Terminal.Gui) - Cross Platform Terminal UI toolkit for .NET \[*MIT License*\] (⭐️11254)
   - [Yevrag35/PoshSonarr](https://github.com/Yevrag35/PoshSonarr) - A project aimed at creating a PowerShell module for querying and managing Sonarr PVR. \[*GNU GPLv3*\] (⭐️13) 
 
 **[⬆ back to top](#contents)**
@@ -90,7 +90,7 @@ Total starred repositories: `303`
 ## C++
 
   - [astriiddev/Ami-Sampler-VST](https://github.com/astriiddev/Ami-Sampler-VST) - VSTi  8-bit Sampler inspired by the sound of the famous Commodore Amiga for Windows/MacOS/Linux using VST3/AU/LV2 \[*GNU GPLv3*\] (⭐️234)
-  - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved                                                            \[*GNU GPLv3*\] (⭐️3112)
+  - [ModOrganizer2/modorganizer](https://github.com/ModOrganizer2/modorganizer) - Mod manager for various PC games. Discord Server: https://discord.gg/ewUVAqyrQX if you would like to be more involved                                                            \[*GNU GPLv3*\] (⭐️3113)
   - [slu4coder/Minimal-Terminal](https://github.com/slu4coder/Minimal-Terminal) - UPDATE 2026: Minimal UART Terminal with 50 x 30 characters VGA output and PS/2 keyboard (⭐️78)
   - [UrbanCircles/scribe](https://github.com/UrbanCircles/scribe) - Simple, reliable, distraction free writer to nudge you towards a better life story. It'll show your receipts. \[*MIT License*\] (⭐️463) 
 
@@ -98,44 +98,44 @@ Total starred repositories: `303`
 
 ## CSS
 
-  - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. \[*MIT License*\] (⭐️29798)
+  - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex. \[*MIT License*\] (⭐️29855)
   - [themesberg/tailwind-remix-starter](https://github.com/themesberg/tailwind-remix-starter) - Free and open-source starter kit that helps you get started with Tailwind CSS, Remix and Flowbite React \[*MIT License*\] (⭐️4) 
 
 **[⬆ back to top](#contents)**
 
 ## Crystal
 
-  - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube \[*GNU AGPLv3*\] (⭐️25159) 
+  - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube \[*GNU AGPLv3*\] (⭐️25172) 
 
 **[⬆ back to top](#contents)**
 
 ## Elixir
 
   - [kieraneglin/pinchflat](https://github.com/kieraneglin/pinchflat) - Your next YouTube media manager \[*GNU AGPLv3*\] (⭐️5396)
-  - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. \[*GNU AGPLv3*\] (⭐️29353) 
+  - [plausible/analytics](https://github.com/plausible/analytics) - Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud. \[*GNU AGPLv3*\] (⭐️29355) 
 
 **[⬆ back to top](#contents)**
 
 ## Go
 
   - [aceberg/WatchYourPorts](https://github.com/aceberg/WatchYourPorts) - Open ports inventory for local servers. Exports data to InfluxDB2/Grafana \[*MIT License*\] (⭐️207)
-  - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  \[*MIT License*\] (⭐️14589)
-  - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems \[*Apache License 2.0*\] (⭐️9655)
-  - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST \[*Apache License 2.0*\] (⭐️34703)
-  - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database. (⭐️14544)
-  - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 \[*MIT License*\] (⭐️45354)
-  - [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence \[*Apache License 2.0*\] (⭐️5032)
-  - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime \[*Apache License 2.0*\] (⭐️21392)
+  - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for containers.  Supports Docker, Swarm and K8s.  \[*MIT License*\] (⭐️14593)
+  - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems \[*Apache License 2.0*\] (⭐️9659)
+  - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST \[*Apache License 2.0*\] (⭐️34724)
+  - [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database. (⭐️14545)
+  - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 \[*MIT License*\] (⭐️45411)
+  - [clidey/whodb](https://github.com/clidey/whodb) - Where data access meets operational intelligence \[*Apache License 2.0*\] (⭐️5033)
+  - [containerd/containerd](https://github.com/containerd/containerd) - An open and reliable container runtime \[*Apache License 2.0*\] (⭐️21394)
   - [damiensedgwick/napp](https://github.com/damiensedgwick/napp) - Napp: A command line tool that bootstraps Go, HTMX and SQLite web applications and Dockerises them for ease of deployment. (⭐️58) *Archived!*
   - [data-catering/insta-infra](https://github.com/data-catering/insta-infra) - Quickstart for any service \[*Apache License 2.0*\] (⭐️170)
   - [dimuls/sql2erd](https://github.com/dimuls/sql2erd) - Generate ERD from SQL in SVG format (PostgreSQL only supported for now) \[*MIT License*\] (⭐️3)
   - [eduardolat/pgbackweb](https://github.com/eduardolat/pgbackweb) - 🐘 Effortless PostgreSQL backups with a user-friendly web interface! 🌐💾 \[*GNU AGPLv3*\] (⭐️2640)
-  - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place \[*GNU AGPLv3*\] (⭐️37393)
-  - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts. \[*MIT License*\] (⭐️26045)
-  - [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard® (⭐️29827)
+  - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place \[*GNU AGPLv3*\] (⭐️37417)
+  - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts. \[*MIT License*\] (⭐️26076)
+  - [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard® (⭐️29841)
   - [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator) - Language-agnostic SLSA provenance generation for Github Actions \[*Apache License 2.0*\] (⭐️603)
   - [steipete/sag](https://github.com/steipete/sag) - Like the macOS say command, but with a modern voice. \[*MIT License*\] (⭐️582)
-  - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager \[*MIT License*\] (⭐️23765) 
+  - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager \[*MIT License*\] (⭐️23776) 
 
 **[⬆ back to top](#contents)**
 
@@ -144,7 +144,7 @@ Total starred repositories: `303`
   - [benpate/hyperscript-widgets](https://github.com/benpate/hyperscript-widgets) - A collectable library of of widgets and behaviors for a more hygienic web experience. \[*Creative Commons Zero v1.0 Universal*\] (⭐️94)
   - [brunobuddy/demo-htmx-manifest](https://github.com/brunobuddy/demo-htmx-manifest) - Demo newsletter subscription with HTMX and Manifest (⭐️4)
   - [cristianoliveira/distributex](https://github.com/cristianoliveira/distributex) - A POC of a federated architecture using HTMX & NGINX -  micro-frontends/services (same thing) \[*MIT License*\] (⭐️76)
-  - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples \[*Creative Commons Zero v1.0 Universal*\] (⭐️46489)
+  - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples \[*Creative Commons Zero v1.0 Universal*\] (⭐️46492)
   - [dominikhoebert/docker-projects](https://github.com/dominikhoebert/docker-projects) -  (⭐️332)
   - [meonkeys/shb](https://github.com/meonkeys/shb) - Source code for an awesome book about self-hosting. \[*GNU AGPLv3*\] (⭐️119)
   - [NomadicDaddy/wopr-decryptor](https://github.com/NomadicDaddy/wopr-decryptor) - Retro WOPR-style decryption/countdown counter with customizable UI and timing. \[*MIT License*\] (⭐️1)
@@ -160,49 +160,49 @@ Total starred repositories: `303`
 
 ## JavaScript
 
-  - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. \[*MIT License*\] (⭐️103547)
+  - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents. \[*MIT License*\] (⭐️104237)
   - [AgentSystemLabs/essentials](https://github.com/AgentSystemLabs/essentials) -  (⭐️87)
-  - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data. (⭐️19140)
-  - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. \[*MIT License*\] (⭐️29914)
-  - [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board \[*MIT License*\] (⭐️2198)
+  - [amark/gun](https://github.com/amark/gun) - An open source cybersecurity protocol for syncing decentralized graph data. (⭐️19139)
+  - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. \[*MIT License*\] (⭐️29975)
+  - [BaldissaraMatheus/Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board \[*MIT License*\] (⭐️2199)
   - [bigskysoftware/contact-app](https://github.com/bigskysoftware/contact-app) -  (⭐️130)
-  - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - </> htmx - high power tools for HTML (⭐️49546)
+  - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - </> htmx - high power tools for HTML (⭐️49547)
   - [bigskysoftware/htmx-extensions](https://github.com/bigskysoftware/htmx-extensions) -  (⭐️285)
   - [bigskysoftware/hypermedia-systems-book](https://github.com/bigskysoftware/hypermedia-systems-book) -  (⭐️183)
-  - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (⭐️49374)
-  - [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows (⭐️6071)
-  - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! \[*GNU GPLv3*\] (⭐️6389)
+  - [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. (⭐️49797)
+  - [ChrisWiles/claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) - Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows (⭐️6070)
+  - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up! \[*GNU GPLv3*\] (⭐️6393)
   - [dakixr/htmx-download](https://github.com/dakixr/htmx-download) - htmx extension to handle file downloads \[*Apache License 2.0*\] (⭐️29) *Archived!*
   - [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) - 🤪 A list of funny and tricky JavaScript examples \[*Do What The F*ck You Want To Public License*\] (⭐️37688)
-  - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. \[*GNU AGPLv3*\] (⭐️39854)
-  - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player \[*MIT License*\] (⭐️16169)
+  - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator. \[*GNU AGPLv3*\] (⭐️39853)
+  - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player \[*MIT License*\] (⭐️16168)
   - [Freeboard/freeboard](https://github.com/Freeboard/freeboard) - A damn-sexy, open source real-time dashboard builder for IOT and other web mashups. A free open-source alternative to Geckoboard. \[*MIT License*\] (⭐️6507)
-  - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. \[*GNU GPLv3*\] (⭐️33027)
+  - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. \[*GNU GPLv3*\] (⭐️33041)
   - [gfgeu/syswatch](https://github.com/gfgeu/syswatch) - A minimal control panel to monitor system usage. (⭐️13)
-  - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks. \[*MIT License*\] (⭐️21727)
+  - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks. \[*MIT License*\] (⭐️21724)
   - [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) - A speed test analysis software that shows your internet speed for up to 30 days \[*MIT License*\] (⭐️3032)
-  - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉 \[*MIT License*\] (⭐️41440)
+  - [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) - The best design tools and plugins for everything 👉 \[*MIT License*\] (⭐️41447)
   - [GoogleChrome/chrome-extensions-samples](https://github.com/GoogleChrome/chrome-extensions-samples) - Chrome Extensions Samples \[*Apache License 2.0*\] (⭐️17803)
   - [guyroyse/htmx-tailwind-vite](https://github.com/guyroyse/htmx-tailwind-vite) - Skeleton project using HTMX, Tailwind CSS, and Vite with extensions for JSON APIs and Handlebars templates. (⭐️19)
   - [Jet-labs/jet-admin](https://github.com/Jet-labs/jet-admin) - Open-source low-code platform with multi-datasource support, visual workflow builder, customizable widgets & app pages. Connect 35+ data sources, build listeners, queries, workflows, scheduled jobs, and create stunning visualizations with a secure, multi-tenant architecture. (⭐️29)
   - [jsebrech/create-react-app-zero](https://github.com/jsebrech/create-react-app-zero) - A very lightweight React starter kit for developing without build tools \[*MIT License*\] (⭐️38)
   - [kimlimjustin/google-keep-clone](https://github.com/kimlimjustin/google-keep-clone) - Clone of Google Keep built using Django and Javascript \[*MIT License*\] (⭐️59)
   - [m-sarabi/rain-char](https://github.com/m-sarabi/rain-char) - A lightweight JavaScript library that creates a 'Matrix-style' falling character effect with depth. Customize the font, colors, character range, and animation speed for dynamic visual effects on your webpage. \[*MIT License*\] (⭐️9)
-  - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer \[*MIT License*\] (⭐️96922)
+  - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer \[*MIT License*\] (⭐️96932)
   - [musically-ut/lovely-forks](https://github.com/musically-ut/lovely-forks) - 💚 🍴 Show notable forks of GitHub repositories under their names. \[*Mozilla Public License 2.0*\] (⭐️673)
   - [NomadicDaddy/htmx-debugger](https://github.com/NomadicDaddy/htmx-debugger) - a browser extension (Chrome and Firefox) debugging tool for htmx applications \[*MIT License*\] (⭐️146)
   - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma) - Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services.  \[*GNU GPLv3*\] (⭐️773)
   - [sdabhi23/frontporch](https://github.com/sdabhi23/frontporch) - FrontPorch is a configurable dashboard designed for distributed homelabs \[*MIT License*\] (⭐️30)
-  - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener. \[*MIT License*\] (⭐️11146)
-  - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab. \[*GNU AGPLv3*\] (⭐️1810)
-  - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) \[*MIT License*\] (⭐️47412)
+  - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener. \[*MIT License*\] (⭐️11147)
+  - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab. \[*GNU AGPLv3*\] (⭐️1814)
+  - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia) \[*MIT License*\] (⭐️47432)
   - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3) - The fastest and simplest library for SQLite3 in Node.js. \[*MIT License*\] (⭐️7513) 
 
 **[⬆ back to top](#contents)**
 
 ## Jupyter Notebook
 
-  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  \[*MIT License*\] (⭐️121030)
+  - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  \[*MIT License*\] (⭐️121085)
   - [microsoft/tigertoolbox](https://github.com/microsoft/tigertoolbox) - Toolbox repository for Tiger team  (⭐️1593) 
 
 **[⬆ back to top](#contents)**
@@ -210,7 +210,7 @@ Total starred repositories: `303`
 ## Kotlin
 
   - [Acclorite/book-story](https://github.com/Acclorite/book-story) - Book's Story — Material You eBook reader built with Jetpack Compose. Free & Open source & Ad-free, with extensive customization options and support for multiple file formats. \[*GNU GPLv3*\] (⭐️1407)
-  - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store. \[*Apache License 2.0*\] (⭐️19244) 
+  - [komi-store/komi-store](https://github.com/komi-store/komi-store) - 🩵 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo — browse, discover, and install apps with one click. Formerly GitHub Store. \[*Apache License 2.0*\] (⭐️19281) 
 
 **[⬆ back to top](#contents)**
 
@@ -228,11 +228,11 @@ Total starred repositories: `303`
 
 ## PHP
 
-  - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP \[*GNU GPLv3*\] (⭐️5819)
+  - [causefx/Organizr](https://github.com/causefx/Organizr) - HTPC/Homelab Services Organizer - Written in PHP \[*GNU GPLv3*\] (⭐️5817)
   - [cslemieux/unraid-custom-smb-shares](https://github.com/cslemieux/unraid-custom-smb-shares) - Unraid plugin for creating and managing custom SMB/Samba shares with advanced configuration options (⭐️35)
-  - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager \[*GNU AGPLv3*\] (⭐️24847)
+  - [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager \[*GNU AGPLv3*\] (⭐️24856)
   - [Monitorr/Monitorr](https://github.com/Monitorr/Monitorr) - "Monitorr” is a self-hosted PHP web app that monitors the status of local and remote network services, websites, and applications. \[*MIT License*\] (⭐️676)
-  - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. \[*GNU AGPLv3*\] (⭐️10563) 
+  - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. \[*GNU AGPLv3*\] (⭐️10571) 
 
 **[⬆ back to top](#contents)**
 
@@ -244,7 +244,7 @@ Total starred repositories: `303`
 
 ## Perl
 
-  - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. \[*GNU GPLv2*\] (⭐️23587) 
+  - [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages. \[*GNU GPLv2*\] (⭐️23586) 
 
 **[⬆ back to top](#contents)**
 
@@ -252,26 +252,26 @@ Total starred repositories: `303`
 
   - [2KU77B0N3S/NatMappingManager](https://github.com/2KU77B0N3S/NatMappingManager) - NatMappingManager is a PowerShell-based GUI tool for managing NAT (Network Address Translation) static mappings. The tool provides a user-friendly interface to view, add, edit, and delete NAT mappings on Windows systems \[*MIT License*\] (⭐️20)
   - [adbertram/PowerShellForSysadmins](https://github.com/adbertram/PowerShellForSysadmins) -  (⭐️240)
-  - [Badgerati/Pode](https://github.com/Badgerati/Pode) - Pode is a Cross-Platform PowerShell web framework for creating REST APIs, Web Sites, and TCP/SMTP servers \[*MIT License*\] (⭐️1065)
+  - [Badgerati/Pode](https://github.com/Badgerati/Pode) - Pode is a Cross-Platform PowerShell web framework for creating REST APIs, Web Sites, and TCP/SMTP servers \[*MIT License*\] (⭐️1066)
   - [Badgerati/Pode.Game](https://github.com/Badgerati/Pode.Game) - 2D game framework for use with the Pode PowerShell web server \[*MIT License*\] (⭐️14)
   - [Badgerati/Pode.Web](https://github.com/Badgerati/Pode.Web) - Web template framework for use with the Pode PowerShell web server \[*MIT License*\] (⭐️248)
   - [chrisseroka/ps-menu](https://github.com/chrisseroka/ps-menu) - Simple powershell menu to render interactive console menu \[*MIT License*\] (⭐️281)
-  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️63876)
+  - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates \[*MIT License*\] (⭐️63924)
   - [dataplat/dbatools](https://github.com/dataplat/dbatools) - 🚀 SQL Server automation and instance migrations have never been safer, faster or freer \[*MIT License*\] (⭐️2847)
   - [dsccommunity/SqlServerDsc](https://github.com/dsccommunity/SqlServerDsc) - This module contains commands and DSC resources for deployment and configuration of Microsoft SQL Server, SQL Server Reporting Services and Power BI Report Server. \[*MIT License*\] (⭐️386)
   - [erlwes/InactiveWipe](https://github.com/erlwes/InactiveWipe) - A script to help stay in control of guest access in Entra ID (⭐️24)
   - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates. \[*GNU AGPLv3*\] (⭐️5406) *Archived!*
   - [jdhitsolutions/PSScriptTools](https://github.com/jdhitsolutions/PSScriptTools) - :wrench: :hammer: A set of PowerShell functions to enhance your functions and scripts or to facilitate working in the console. Most should work cross-platform and cross-version. Operating system limitations are handled on a per command basis. The Samples folder contains demonstration scripts. After installing the module run Open-PSScriptToolsHelp. \[*MIT License*\] (⭐️1002)
   - [mbarr564/New-SubredditHTMLArchive](https://github.com/mbarr564/New-SubredditHTMLArchive) - Windows turnkey wrapper for BDFR and BDFR-HTML Python modules. Installs modules, and prerequisites, then creates offline/portable HTML archives of subreddit posts and comments. \[*The Unlicense*\] (⭐️3)
-  - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge (⭐️11251)
+  - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) - Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge (⭐️11249)
   - [nightroman/Invoke-Build](https://github.com/nightroman/Invoke-Build) - Build Automation in PowerShell \[*Apache License 2.0*\] (⭐️723)
   - [NomadicDaddy/podex](https://github.com/NomadicDaddy/podex) - PowerShell/Pode + htmx Framework for Building Web Applications \[*MIT License*\] (⭐️6)
   - [NomadicDaddy/todomvc-podex](https://github.com/NomadicDaddy/todomvc-podex) - TodoMVC-Podex is a complete TodoMVC implementation built from the Podex PowerShell, Pode, SQLite, and htmx starter. \[*MIT License*\] (⭐️2)
-  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️19752)
+  - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder) - Scripts to build a trimmed-down Windows 11 image. (⭐️19769)
   - [psake/psake](https://github.com/psake/psake) - A build automation tool written in PowerShell \[*MIT License*\] (⭐️1617)
   - [RamblingCookieMonster/PSSlack](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration \[*MIT License*\] (⭐️273)
-  - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. \[*MIT License*\] (⭐️58843)
-  - [rishi255/posh_codex](https://github.com/rishi255/posh_codex) - PowerShell module that enables you to use AI Code Completion in the command line. \[*MIT License*\] (⭐️116)
+  - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11. \[*MIT License*\] (⭐️58936)
+  - [rishi255/posh_codex](https://github.com/rishi255/posh_codex) - PowerShell module that enables you to use AI Code Completion in the command line. \[*MIT License*\] (⭐️117)
   - [Robomikel/Steam-Server-Manager](https://github.com/Robomikel/Steam-Server-Manager) - PowerShell Steam Server Manager \[*MIT License*\] (⭐️55)
   - [sietsevdschoot/ConvertFrom-StringTable](https://github.com/sietsevdschoot/ConvertFrom-StringTable) - A Powershell cmdlet designed to effortlessly convert text tables into objects. \[*MIT License*\] (⭐️7)
   - [Sriram-PR/pwsh-neofetch](https://github.com/Sriram-PR/pwsh-neofetch) - A feature-rich PowerShell implementation of the popular Neofetch system information tool for Windows. This module displays system information with customizable ASCII art in your terminal, similar to the original Neofetch but designed specifically for Windows environments. \[*MIT License*\] (⭐️13)
@@ -283,86 +283,86 @@ Total starred repositories: `303`
 ## Python
 
   - [1rgs/nanocode](https://github.com/1rgs/nanocode) - Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines. (⭐️2742)
-  - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp) \[*GNU AGPLv3*\] (⭐️14947)
+  - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp) \[*GNU AGPLv3*\] (⭐️14957)
   - [anetonline/ANetBBS](https://github.com/anetonline/ANetBBS) - ANetBBS  - A-Net Online's BBS Software (⭐️43)
-  - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. \[*Creative Commons Zero v1.0 Universal*\] (⭐️69227)
+  - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. \[*Creative Commons Zero v1.0 Universal*\] (⭐️69291)
   - [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker) - Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. \[*GNU AGPLv3*\] (⭐️11296)
   - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts (⭐️1926)
-  - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras \[*MIT License*\] (⭐️36438)
-  - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. \[*MIT License*\] (⭐️18268)
-  - [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams. (⭐️4972)
-  - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! \[*Apache License 2.0*\] (⭐️34851)
-  - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface (⭐️11213)
+  - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras \[*MIT License*\] (⭐️36462)
+  - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude. \[*MIT License*\] (⭐️18300)
+  - [coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill) - Skill to give Claude Code (and any coding agent) the ability to generate beautiful and practical Excalidraw diagrams. (⭐️4979)
+  - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan! \[*Apache License 2.0*\] (⭐️34868)
+  - [Doriandarko/claude-engineer](https://github.com/Doriandarko/claude-engineer) - Claude Engineer is an interactive command-line interface (CLI) that leverages the power of Anthropic's Claude-3.5-Sonnet model to assist with software development tasks.This framework enables Claude to generate and manage its own tools, continuously expanding its capabilities through conversation. Available both as a CLI and a modern web interface (⭐️11212)
   - [Drazzilb08/daps](https://github.com/Drazzilb08/daps) - DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation (⭐️318)
-  - [DroppedNeedle/DroppedNeedle](https://github.com/DroppedNeedle/DroppedNeedle) -  \[*GNU AGPLv3*\] (⭐️1472)
+  - [DroppedNeedle/DroppedNeedle](https://github.com/DroppedNeedle/DroppedNeedle) -  \[*GNU AGPLv3*\] (⭐️1473)
   - [eitchtee/WYGIWYH](https://github.com/eitchtee/WYGIWYH) - A simple but powerful self-hosted finance tracker \[*GNU AGPLv3*\] (⭐️897)
-  - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ \[*GNU GPLv3*\] (⭐️12536)
+  - [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot) - Create Reddit Videos with just✨ one command ✨ \[*GNU GPLv3*\] (⭐️12538)
   - [eviking/txviewer](https://github.com/eviking/txviewer) - Transaction sidecar viewer for Claude Code \[*MIT License*\] (⭐️18)
   - [FelixWeichselgartner/GitHubAccountSynchronization](https://github.com/FelixWeichselgartner/GitHubAccountSynchronization) - Automatically synchronize all your repositories (and all starred repositories) on your local drive. (⭐️2)
-  - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP) \[*GNU GPLv3*\] (⭐️39934)
+  - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP) \[*GNU GPLv3*\] (⭐️39966)
   - [Kameecoding/conv2mp4-ps](https://github.com/Kameecoding/conv2mp4-ps) - Powershell script that recursively searches through a defined file path and converts MKV, AVI, FLV, and MPEG files to MP4 using ffmpeg (with AAC audio). It then refreshes a Plex library, and deletes the source file upon success. Fails over to Handbrake encode if conversion failure is detected. The purpose of this script is to reduce the number of transcodes performed by a Plex server. (⭐️7)
-  - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API. \[*MIT License*\] (⭐️1777)
+  - [kiwiz/gkeepapi](https://github.com/kiwiz/gkeepapi) - An unofficial client for the Google Keep API. \[*MIT License*\] (⭐️1778)
   - [Kometa-Team/ImageMaid](https://github.com/Kometa-Team/ImageMaid) - Python 3 Script for Cleaning Up Images in Plex \[*MIT License*\] (⭐️437)
-  - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts \[*GNU GPLv3*\] (⭐️1831)
+  - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts \[*GNU GPLv3*\] (⭐️1832)
   - [langsec-ai/demo](https://github.com/langsec-ai/demo) -  \[*MIT License*\] (⭐️2)
   - [lxaw/ComprehensiveFoodDatabase](https://github.com/lxaw/ComprehensiveFoodDatabase) - A comprehensive database of foods in the United States. \[*MIT License*\] (⭐️118)
-  - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free. \[*MIT License*\] (⭐️59484)
-  - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource. \[*MIT License*\] (⭐️8141)
+  - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free. \[*MIT License*\] (⭐️59487)
+  - [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource. \[*MIT License*\] (⭐️8140)
   - [minimaxir/big-list-of-naughty-strings](https://github.com/minimaxir/big-list-of-naughty-strings) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. \[*MIT License*\] (⭐️47729)
   - [mrlt8/docker-wyze-bridge](https://github.com/mrlt8/docker-wyze-bridge) - WebRTC/RTSP/RTMP/LL-HLS bridge for Wyze cams in a docker container \[*GNU AGPLv3*\] (⭐️3272)
-  - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 \[*Apache License 2.0*\] (⭐️34003)
-  - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary \[*MIT License*\] (⭐️63801)
+  - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - 817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 29 security domains · Apache 2.0 \[*Apache License 2.0*\] (⭐️34124)
+  - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary \[*MIT License*\] (⭐️63871)
   - [need4swede/Portall](https://github.com/need4swede/Portall) - Port Management Interface \[*MIT License*\] (⭐️909)
-  - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems. (⭐️33754)
-  - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer \[*Apache License 2.0*\] (⭐️9238)
-  - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. (⭐️40200)
-  - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs \[*MIT License*\] (⭐️486864)
-  - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player. \[*GNU AGPLv3*\] (⭐️13287)
+  - [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems. (⭐️33755)
+  - [NVlabs/Sana](https://github.com/NVlabs/Sana) - SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer \[*Apache License 2.0*\] (⭐️9243)
+  - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP. (⭐️40209)
+  - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs \[*MIT License*\] (⭐️487095)
+  - [rommapp/romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted ROM manager and player. \[*GNU AGPLv3*\] (⭐️13296)
   - [scorbo2/TalkWithMe](https://github.com/scorbo2/TalkWithMe) - Configurable AI chat with TTS/STT \[*MIT License*\] (⭐️258)
-  - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data \[*Apache License 2.0*\] (⭐️11509)
-  - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites \[*MIT License*\] (⭐️38401)
-  - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code. \[*MIT License*\] (⭐️9940)
+  - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data \[*Apache License 2.0*\] (⭐️11512)
+  - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites \[*MIT License*\] (⭐️38631)
+  - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code. \[*MIT License*\] (⭐️9943)
   - [TheWicklowWolf/ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) - Download Video or Audio from YouTube channels on a schedule via yt-dlp. \[*GNU GPLv3*\] (⭐️329)
   - [toddrob99/searcharr](https://github.com/toddrob99/searcharr) - Sonarr & Radarr & Readarr Telegram Bot \[*MIT License*\] (⭐️305)
   - [TrixSec/waymap](https://github.com/TrixSec/waymap) - Waymap is a fast and optimized web vulnerability scanner built for penetration testers. It helps in identifying vulnerabilities by testing against various payloads. \[*GNU GPLv3*\] (⭐️132)
-  - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄. \[*MIT License*\] (⭐️23822) *Archived!*
-  - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader \[*The Unlicense*\] (⭐️196326) 
+  - [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄. \[*MIT License*\] (⭐️23823) *Archived!*
+  - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader \[*The Unlicense*\] (⭐️196555) 
 
 **[⬆ back to top](#contents)**
 
 ## Rust
 
-  - [AbhishekBarali/SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow) - Free, open-source offline voice dictation for Windows, macOS, and Linux. A Wispr Flow alternative with an AI assistant that can read your screen on request and answer questions. \[*MIT License*\] (⭐️273)
-  - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal \[*MIT License*\] (⭐️5363)
-  - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform \[*Apache License 2.0*\] (⭐️35691)
-  - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust (⭐️792)
-  - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️ \[*Apache License 2.0*\] (⭐️41366)
+  - [AbhishekBarali/SpeakoFlow](https://github.com/AbhishekBarali/SpeakoFlow) - Free, open-source offline voice dictation for Windows, macOS, and Linux. A Wispr Flow alternative with an AI assistant that can read your screen on request and answer questions. \[*MIT License*\] (⭐️276)
+  - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database tool for the terminal \[*MIT License*\] (⭐️5366)
+  - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform \[*Apache License 2.0*\] (⭐️35797)
+  - [Dark-Alex-17/managarr](https://github.com/Dark-Alex-17/managarr) - A TUI and CLI for managing *arr servers. Built with 🤎 in Rust (⭐️793)
+  - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️ \[*Apache License 2.0*\] (⭐️41386)
   - [immanuwell/dockerfile-roast](https://github.com/immanuwell/dockerfile-roast) - droast - a dockerfile linter that actually has opinions 🔥 \[*MIT License*\] (⭐️1135)
-  - [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility. \[*MIT License*\] (⭐️3440)
+  - [matthart1983/netwatch](https://github.com/matthart1983/netwatch) - Real-time network diagnostics in your terminal. One command, zero config, instant visibility. \[*MIT License*\] (⭐️3445)
   - [Mimea005/authami](https://github.com/Mimea005/authami) - A project to play with: htmx, OAuth, handlebars templating and other webserver concepts (⭐️1)
   - [mkrueger/icy_board](https://github.com/mkrueger/icy_board) - A modern PCBoard clone. \[*Apache License 2.0*\] (⭐️57)
-  - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 \[*GNU GPLv3*\] (⭐️12662)
+  - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎 \[*GNU GPLv3*\] (⭐️12667)
   - [Proxtx/crontab_status](https://github.com/Proxtx/crontab_status) - Monitor your contab jobs. Get notified on failures \[*MIT License*\] (⭐️74)
-  - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. \[*MIT License*\] (⭐️96996)
+  - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. \[*MIT License*\] (⭐️97088)
   - [spiceai/spiceai](https://github.com/spiceai/spiceai) - Add a real-time analytics node to your operational database. Spice is a portable, accelerated SQL query, search, and LLM-inference engine in Rust for data-grounded AI apps and agents. \[*Apache License 2.0*\] (⭐️3102)
   - [ThePrimeagen/htmx-lsp](https://github.com/ThePrimeagen/htmx-lsp) - its so over \[*MIT License*\] (⭐️707)
-  - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. \[*GNU GPLv3*\] (⭐️41710)
+  - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS. \[*GNU GPLv3*\] (⭐️41766)
   - [TransformerOptimus/SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System \[*MIT License*\] (⭐️997)
-  - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents \[*Apache License 2.0*\] (⭐️43711) 
+  - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents \[*Apache License 2.0*\] (⭐️43751) 
 
 **[⬆ back to top](#contents)**
 
 ## Shell
 
-  - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode. \[*MIT License*\] (⭐️4574)
+  - [0xNyk/council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence) - Structured multi-perspective deliberation for hard decisions. Run full councils, focused triads, or duo debates across Claude Code, Codex, Gemini CLI, and OpenCode. \[*MIT License*\] (⭐️4582)
   - [ChuckPa/DBRepair](https://github.com/ChuckPa/DBRepair) - Database repair utility for Plex Media Server databases (⭐️1752)
-  - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. \[*MIT License*\] (⭐️18907)
-  - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. \[*MIT License*\] (⭐️53575)
+  - [docker-mailserver/docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container. \[*MIT License*\] (⭐️19083)
+  - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container. \[*MIT License*\] (⭐️53586)
   - [kessenma/docker-convex](https://github.com/kessenma/docker-convex) - self hosted convex database + setup scripts inside a docker-compose.yaml  (⭐️2)
-  - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. \[*MIT License*\] (⭐️281790)
-  - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. \[*MIT License*\] (⭐️158413)
+  - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. \[*MIT License*\] (⭐️283389)
+  - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. \[*MIT License*\] (⭐️158609)
   - [RandomNinjaAtk/arr-scripts](https://github.com/RandomNinjaAtk/arr-scripts) - Extended Container Scripts - Automation scripts to make life easier! \[*GNU GPLv3*\] (⭐️1473)
-  - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. \[*MIT License*\] (⭐️7314)
+  - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories. \[*MIT License*\] (⭐️7325)
   - [twentyone24/maelstrom](https://github.com/twentyone24/maelstrom) - stress-test your API reliability on concurrent threads, with latency metrics. \[*MIT License*\] (⭐️18) 
 
 **[⬆ back to top](#contents)**
@@ -376,11 +376,11 @@ Total starred repositories: `303`
 ## TSQL
 
   - [Azure-Samples/millionsongdataset-sql](https://github.com/Azure-Samples/millionsongdataset-sql) - Working with the Million Song Dataset in Azure SQL and SQL Server \[*MIT License*\] (⭐️19) *Archived!*
-  - [BrentOzarULTD/SQL-Server-First-Responder-Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) - sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning. (⭐️3914)
+  - [BrentOzarULTD/SQL-Server-First-Responder-Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit) - sp_Blitz, sp_BlitzCache, sp_BlitzFirst, sp_BlitzIndex, and other SQL Server scripts for health checks and performance tuning. (⭐️3915)
   - [DavidSchanzer/Sql-Server-DBA-Toolbox](https://github.com/DavidSchanzer/Sql-Server-DBA-Toolbox) - A box of tricks (SQL scripts) that I've built up over many years for Microsoft SQL Server instance and database administration, and general working-with-data. \[*GNU GPLv3*\] (⭐️327)
   - [erikdarlingdata/DarlingData](https://github.com/erikdarlingdata/DarlingData) - Open source SQL Server troubleshooting: sp_PressureDetector, sp_QuickieStore, sp_HumanEvents, and other SQL Server scripts for performance troubleshooting \[*MIT License*\] (⭐️727)
   - [nocentino/Presentations](https://github.com/nocentino/Presentations) - Community presentations by Anthony Nocentino (⭐️55)
-  - [olahallengren/sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution \[*MIT License*\] (⭐️3505)
+  - [olahallengren/sql-server-maintenance-solution](https://github.com/olahallengren/sql-server-maintenance-solution) - SQL Server Maintenance Solution \[*MIT License*\] (⭐️3507)
   - [smpetersgithub/AdvancedSQLPuzzles](https://github.com/smpetersgithub/AdvancedSQLPuzzles) - Welcome to my GitHub repository.  I hope you enjoy solving these puzzles as much as I have enjoyed creating them. (⭐️928)
   - [VladDBA/PSBlitz](https://github.com/VladDBA/PSBlitz) - a PowerShell-based tool that outputs SQL Server health and performance diagnostics data to either Excel or HTML, and saves execution plans and deadlock graphs as .sqlplan and .xdl files. (⭐️159) 
 
@@ -388,42 +388,42 @@ Total starred repositories: `303`
 
 ## TypeScript
 
-  - [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding \[*GNU AGPLv3*\] (⭐️14583)
-  - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. \[*MIT License*\] (⭐️212294)
-  - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI) \[*MIT License*\] (⭐️13503)
+  - [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding \[*GNU AGPLv3*\] (⭐️14579)
+  - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. \[*MIT License*\] (⭐️212457)
+  - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library to build terminal user interfaces (TUI) \[*MIT License*\] (⭐️13504)
   - [BigJk/snd](https://github.com/BigJk/snd) - Sales & Dungeons — Thermal Printer as D&D / TTRPG Utility \[*MIT License*\] (⭐️675)
-  - [bikeshaving/termdom](https://github.com/bikeshaving/termdom) - Build terminal apps with HTML, CSS and DOM. \[*MIT License*\] (⭐️326)
-  - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query. \[*GNU AGPLv3*\] (⭐️22993)
-  - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant. \[*Apache License 2.0*\] (⭐️70050)
-  - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol \[*MIT License*\] (⭐️37860)
+  - [bikeshaving/termdom](https://github.com/bikeshaving/termdom) - Build terminal apps with HTML, CSS and DOM. \[*MIT License*\] (⭐️327)
+  - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query. \[*GNU AGPLv3*\] (⭐️22990)
+  - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant. \[*Apache License 2.0*\] (⭐️70097)
+  - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol \[*MIT License*\] (⭐️37895)
   - [dev-xo/remix-saas](https://github.com/dev-xo/remix-saas) - A Lightweight, Production-Ready Remix Stack for your next SaaS application. \[*MIT License*\] (⭐️1452)
-  - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr \[*GNU AGPLv3*\] (⭐️2711)
+  - [Dictionarry-Hub/profilarr](https://github.com/Dictionarry-Hub/profilarr) - Configuration Management Platform for Radarr/Sonarr \[*GNU AGPLv3*\] (⭐️2708)
   - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. \[*MIT License*\] (⭐️5538)
-  - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library \[*MIT License*\] (⭐️28557)
-  - [foru17/neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis. \[*MIT License*\] (⭐️4120)
-  - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. (⭐️23038)
-  - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA \[*MIT License*\] (⭐️135677)
+  - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced free and open-source browser fingerprinting library \[*MIT License*\] (⭐️28561)
+  - [foru17/neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis. \[*MIT License*\] (⭐️4123)
+  - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users. (⭐️23044)
+  - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA \[*MIT License*\] (⭐️135771)
   - [get-convex/agent](https://github.com/get-convex/agent) - Build AI agents on Convex with persistent chat history \[*Apache License 2.0*\] (⭐️357)
-  - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (⭐️12673)
+  - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers (⭐️12680)
   - [get-convex/convex-demos](https://github.com/get-convex/convex-demos) - Demo apps built on Convex. (⭐️281)
   - [get-convex/convex-helpers](https://github.com/get-convex/convex-helpers) - A collection of useful code to complement the official packages. \[*Apache License 2.0*\] (⭐️491)
   - [get-convex/convex-js](https://github.com/get-convex/convex-js) - TypeScript/JavaScript client library for Convex \[*Apache License 2.0*\] (⭐️372)
   - [get-convex/workpool](https://github.com/get-convex/workpool) - Convex component for starting pools of work, like threadpools or scheduled jobs with limited parallelism \[*Apache License 2.0*\] (⭐️31)
   - [GetWiredDev/getwired](https://github.com/GetWiredDev/getwired) - AI-powered chaotic testing CLI. Break your web app before your users do. \[*MIT License*\] (⭐️13)
-  - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (⭐️26627)
+  - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? (⭐️26633)
   - [ignaciomartinelias/sorting-algorithms-app-v2](https://github.com/ignaciomartinelias/sorting-algorithms-app-v2) -  \[*MIT License*\] (⭐️21)
-  - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. \[*GNU AGPLv3*\] (⭐️115817)
+  - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution. \[*GNU AGPLv3*\] (⭐️115902)
   - [jmagar/unloggarr](https://github.com/jmagar/unloggarr) -  (⭐️29)
   - [kentcdodds/the-webs-next-transition](https://github.com/kentcdodds/the-webs-next-transition) -  (⭐️269)
-  - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. \[*MIT License*\] (⭐️27540)
-  - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. \[*GNU AGPLv3*\] (⭐️20010)
-  - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️35053)
-  - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. (⭐️83080)
-  - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. \[*Mozilla Public License 2.0*\] (⭐️14665)
+  - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. \[*MIT License*\] (⭐️27546)
+  - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place. \[*GNU AGPLv3*\] (⭐️20028)
+  - [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website \[*MIT License*\] (⭐️35065)
+  - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team. (⭐️83099)
+  - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC. \[*Mozilla Public License 2.0*\] (⭐️14663)
   - [m-mdy-m/agas](https://github.com/m-mdy-m/agas) - Modern HTTP client for the terminal  \[*MIT License*\] (⭐️4)
   - [mehdibha/palettify](https://github.com/mehdibha/palettify) - Beautiful themes for your website that you can copy and paste into your apps. (⭐️283)
-  - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. \[*Apache License 2.0*\] (⭐️100124)
-  - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface \[*MIT License*\] (⭐️34354)
+  - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK. \[*Apache License 2.0*\] (⭐️100297)
+  - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface \[*MIT License*\] (⭐️34365)
   - [NomadicDaddy/agentwatch](https://github.com/NomadicDaddy/agentwatch) - Are your agents safe? Is your information being leaked? (⭐️1)
   - [NomadicDaddy/aidd](https://github.com/NomadicDaddy/aidd) - aidd: local control panel for AI coding work. Plans, runs, audits, and reviews delegated work from your own machine with the agent CLIs you already use. (⭐️1)
   - [NomadicDaddy/spernakit](https://github.com/NomadicDaddy/spernakit) - Self-hosted full-stack application template - Bun, Elysia, React, Drizzle, TanStack Query, shadcn/ui. MIT. \[*MIT License*\] (⭐️1)
@@ -431,22 +431,22 @@ Total starred repositories: `303`
   - [nowaythatworked/auth-astro](https://github.com/nowaythatworked/auth-astro) - Community maintained Astro integration of @auth/core (⭐️367)
   - [panteliselef/astro-with-clerk-auth](https://github.com/panteliselef/astro-with-clerk-auth) - Community Astro SDK for Clerk with starter `astro-clerk-auth` \[*MIT License*\] (⭐️41) *Archived!*
   - [Phillip-England/staci](https://github.com/Phillip-England/staci) - drop-in, reactive signals 🤌 (⭐️3)
-  - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -  \[*MIT License*\] (⭐️26478)
+  - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) -  \[*MIT License*\] (⭐️26700)
   - [rannn505/child-shell](https://github.com/rannn505/child-shell) - Node.js bindings 🔗 for shell \[*MIT License*\] (⭐️302)
-  - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases \[*GNU AGPLv3*\] (⭐️20022)
+  - [refactoringhq/tolaria](https://github.com/refactoringhq/tolaria) - Desktop app to manage markdown knowledge bases \[*GNU AGPLv3*\] (⭐️20029)
   - [RSeidelsohn/license-checker-rseidelsohn](https://github.com/RSeidelsohn/license-checker-rseidelsohn) - Extract NPM package licenses. Enhanced and updated fork of Dav Glass' original (but abandoned) license-checker. \[*Modified BSD License*\] (⭐️202)
-  - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. \[*MIT License*\] (⭐️125188)
-  - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network. \[*GNU AGPLv3*\] (⭐️2794)
-  - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (⭐️3986)
-  - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! \[*MIT License*\] (⭐️19938)
-  - [Studio-Saelix/sencho](https://github.com/Studio-Saelix/sencho) - Self-hosted Docker Compose management platform. For single or multi-host compose-first workflow. \[*GNU AGPLv3*\] (⭐️473)
+  - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own. \[*MIT License*\] (⭐️125244)
+  - [snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter) - Open-source, self-hosted file-processing tool. Convert, compress, OCR, transcribe & run local AI across image, video, audio, PDF & documents, via UI, REST API & pipelines. Your files never leave your network. \[*GNU AGPLv3*\] (⭐️2799)
+  - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. (⭐️3985)
+  - [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want! \[*MIT License*\] (⭐️19939)
+  - [Studio-Saelix/sencho](https://github.com/Studio-Saelix/sencho) - Self-hosted Docker Compose management platform. For single or multi-host compose-first workflow. \[*GNU AGPLv3*\] (⭐️474)
   - [stukennedy/cloudflare-htmx](https://github.com/stukennedy/cloudflare-htmx) -  (⭐️41)
   - [T3-Content/unduck](https://github.com/T3-Content/unduck) - A fast, local-first "search engine" for !bang users \[*MIT License*\] (⭐️1255)
   - [TahaSh/swapy](https://github.com/TahaSh/swapy) - ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/ \[*GNU GPLv3*\] (⭐️8502)
-  - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. \[*MIT License*\] (⭐️97806)
+  - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. \[*MIT License*\] (⭐️97849)
   - [tekram/clicky-windows](https://github.com/tekram/clicky-windows) - AI-powered screen companion for Windows. See your screen, hear your voice, point at answers. Windows companion to farzaa/clicky. \[*MIT License*\] (⭐️59)
   - [themesberg/flowbite-icons](https://github.com/themesberg/flowbite-icons) - Free and open-source collection of SVG icons built for Flowbite and Tailwind CSS \[*MIT License*\] (⭐️240)
-  - [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react) - Official React components built for Flowbite and Tailwind CSS \[*MIT License*\] (⭐️2150)
+  - [themesberg/flowbite-react](https://github.com/themesberg/flowbite-react) - Official React components built for Flowbite and Tailwind CSS \[*MIT License*\] (⭐️2148)
   - [themesberg/flowbite-react-admin-dashboard](https://github.com/themesberg/flowbite-react-admin-dashboard) - A free and open-source admin dashboard interface built with Flowbite, React, and Tailwind CSS \[*MIT License*\] (⭐️84)
   - [themesberg/flowbite-react-icons](https://github.com/themesberg/flowbite-react-icons) - Flowbite React Icon library is the official collection of SVG icons, provided freely and as open-source \[*MIT License*\] (⭐️10)
   - [themesberg/flowbite-react-template-astro](https://github.com/themesberg/flowbite-react-template-astro) - Official Flowbite React template using Astro (⭐️4)
@@ -454,23 +454,23 @@ Total starred repositories: `303`
   - [themesberg/flowbite-react-template-vite](https://github.com/themesberg/flowbite-react-template-vite) - Official Flowbite React template using Vite \[*MIT License*\] (⭐️9)
   - [themesberg/tailwind-typescript-starter](https://github.com/themesberg/tailwind-typescript-starter) - A free and open-source starter kit that helps you get started with Tailwind CSS, TypeScript and Flowbite \[*MIT License*\] (⭐️28)
   - [TriliumNext/Notes](https://github.com/TriliumNext/Notes) - Build your personal knowledge base with TriliumNext Notes \[*GNU AGPLv3*\] (⭐️2925) *Archived!*
-  - [uvarov-frontend/vanilla-calendar-pro](https://github.com/uvarov-frontend/vanilla-calendar-pro) - Lightweight, framework-agnostic date and time picker with TypeScript support and zero dependencies. \[*MIT License*\] (⭐️1294)
-  - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents (⭐️4356)
+  - [uvarov-frontend/vanilla-calendar-pro](https://github.com/uvarov-frontend/vanilla-calendar-pro) - Lightweight, framework-agnostic date and time picker with TypeScript support and zero dependencies. \[*MIT License*\] (⭐️1295)
+  - [vercel-labs/just-bash](https://github.com/vercel-labs/just-bash) - Bash for Agents (⭐️4357)
   - [vercel-labs/webreel](https://github.com/vercel-labs/webreel) - Record scripted browser demos as video \[*Apache License 2.0*\] (⭐️948)
-  - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents \[*Apache License 2.0*\] (⭐️5504)
-  - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities \[*MIT License*\] (⭐️9973)
-  - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code \[*MIT License*\] (⭐️39722) 
+  - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents \[*Apache License 2.0*\] (⭐️5512)
+  - [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities \[*MIT License*\] (⭐️9987)
+  - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code \[*MIT License*\] (⭐️39753) 
 
 **[⬆ back to top](#contents)**
 
 ## Unknown
 
   - [danhuss/awesome-sql](https://github.com/danhuss/awesome-sql) - List of tools and techniques for working with relational databases. (⭐️454)
-  - [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM, XPSNR & VMAF) calculated by ffmpeg.exe (⭐️1034)
+  - [fifonik/FFMetrics](https://github.com/fifonik/FFMetrics) - Visualizes Video Quality Metrics (PSNR, SSIM, XPSNR & VMAF) calculated by ffmpeg.exe (⭐️1035)
   - [hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors](https://github.com/hernandito/unRAID-Docker-Folder-Animated-Icons---Alternate-Colors) -  (⭐️654)
-  - [iSoumyaDey/Awesome-Web-Hosting-2026](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026) - The Ultimate Guide to Free Cloud Hosting. Compare 100+ Free Tier vs Paid platforms: Vercel, Netlify, Heroku, AWS, & VPS. Deploy Node.js, Python, Docker, Databases (SQL/NoSQL), & AI Models for free. \[*MIT License*\] (⭐️309)
+  - [iSoumyaDey/Awesome-Web-Hosting-2026](https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026) - The Ultimate Guide to Free Cloud Hosting. Compare 100+ Free Tier vs Paid platforms: Vercel, Netlify, Heroku, AWS, & VPS. Deploy Node.js, Python, Docker, Databases (SQL/NoSQL), & AI Models for free. \[*MIT License*\] (⭐️308)
   - [one-aalam/awesome-astro](https://github.com/one-aalam/awesome-astro) - Curated resources on building sites with Astro, a brand new way to build static and server rendered sites, with cross-framework components, styling and reactive store support. \[*MIT License*\] (⭐️949)
-  - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide (⭐️2437)
+  - [PoshCode/PowerShellPracticeAndStyle](https://github.com/PoshCode/PowerShellPracticeAndStyle) - The Unofficial PowerShell Best Practices and Style Guide (⭐️2438)
   - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx \[*Creative Commons Zero v1.0 Universal*\] (⭐️2319)
   - [trinib/Linux-Bash-Commands](https://github.com/trinib/Linux-Bash-Commands) - :godmode: Ultimate list of Linux bash commands, cheatsheets and resources \[*MIT License*\] (⭐️4149) 
 
@@ -478,7 +478,7 @@ Total starred repositories: `303`
 
 ## Vue
 
-  - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  \[*GNU GPLv3*\] (⭐️40795)
+  - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.  \[*GNU GPLv3*\] (⭐️40806)
   - [daemon-bixia/Avian-Template](https://github.com/daemon-bixia/Avian-Template) - Chat app template made with Vue 3 & Tailwind css. \[*MIT License*\] (⭐️404)
   - [simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe) - LinguaCafe is a self-hosted software that helps language learners read foreign languages. \[*GNU GPLv3*\] (⭐️1470) 
 
